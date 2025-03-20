@@ -33,7 +33,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="border-t border-[#C5A47E]/20 mt-8 pt-8 text-center text-sm">
-                    <p>© 2024 InsurePlus. All rights reserved.</p>
+                    <p>© 2025 InsurePlus. All rights reserved.</p>
                 </div>
             </div>
         </footer>
